@@ -1,0 +1,18 @@
+[submodule "Projects/00_Libft"]
+	path = Projects/00_Libft
+	url = https://github.com/NajmiAchraf/Libft.git
+[submodule "Projects/01_ft_printf"]
+	path = Projects/01_ft_printf
+	url = https://github.com/NajmiAchraf/ft_printf.git
+[submodule "Projects/01_get_next_line"]
+	path = Projects/01_get_next_line
+	url = https://github.com/NajmiAchraf/get_next_line.git
+[submodule "Projects/02_fract-ol"]
+	path = Projects/02_fract-ol
+	url = https://github.com/NajmiAchraf/fract-ol.git
+[submodule "Projects/02_minitalk"]
+	path = Projects/02_minitalk
+	url = https://github.com/NajmiAchraf/minitalk.git
+[submodule "Projects/02_push_swap"]
+	path = Projects/02_push_swap
+	url = https://github.com/NajmiAchraf/push_swap.git
