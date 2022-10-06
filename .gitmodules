@@ -16,3 +16,9 @@
 [submodule "Projects/02_push_swap"]
 	path = Projects/02_push_swap
 	url = https://github.com/NajmiAchraf/push_swap.git
+[submodule "Projects/03_philosophers"]
+	path = Projects/03_philosophers
+	url = https://github.com/NajmiAchraf/Philosophers.git
+[submodule "Projects/03_minishell"]
+	path = Projects/03_minishell
+	url = https://github.com/NajmiAchraf/minishell.git
