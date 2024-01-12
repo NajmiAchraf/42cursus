@@ -22,3 +22,48 @@
 [submodule "Projects/03_minishell"]
 	path = Projects/03_minishell
 	url = https://github.com/NajmiAchraf/minishell.git
+[submodule "Projects/04_Cub3D"]
+	path = Projects/04_Cub3D
+	url = git@github.com:NajmiAchraf/Cub3D.git
+[submodule "Projects/04_NetPractice"]
+	path = Projects/04_NetPractice
+	url = git@github.com:NajmiAchraf/NetPractice.git
+[submodule "Projects/04_Cpp_Module_00"]
+	path = Projects/04_Cpp_Module_00
+	url = git@github.com:NajmiAchraf/Cpp-Module-00.git
+[submodule "Projects/04_Cpp_Module_01"]
+	path = Projects/04_Cpp_Module_01
+	url = git@github.com:NajmiAchraf/Cpp-Module-01.git
+[submodule "Projects/04_Cpp_Module_02"]
+	path = Projects/04_Cpp_Module_02
+	url = git@github.com:NajmiAchraf/Cpp-Module-02.git
+[submodule "Projects/04_Cpp_Module_03"]
+	path = Projects/04_Cpp_Module_03
+	url = git@github.com:NajmiAchraf/Cpp-Module-03.git
+[submodule "Projects/04_Cpp_Module_04"]
+	path = Projects/04_Cpp_Module_04
+	url = git@github.com:NajmiAchraf/Cpp-Module-04.git
+[submodule "Projects/05_Cpp_Module_05"]
+	path = Projects/05_Cpp_Module_05
+	url = git@github.com:NajmiAchraf/Cpp-Module-05.git
+[submodule "Projects/05_Cpp_Module_06"]
+	path = Projects/05_Cpp_Module_06
+	url = git@github.com:NajmiAchraf/Cpp-Module-06.git
+[submodule "Projects/05_Cpp_Module_07"]
+	path = Projects/05_Cpp_Module_07
+	url = git@github.com:NajmiAchraf/Cpp-Module-07.git
+[submodule "Projects/05_Cpp_Module_08"]
+	path = Projects/05_Cpp_Module_08
+	url = git@github.com:NajmiAchraf/Cpp-Module-08.git
+[submodule "Projects/05_Cpp_Module_09"]
+	path = Projects/05_Cpp_Module_09
+	url = git@github.com:NajmiAchraf/Cpp-Module-09.git
+[submodule "Projects/05_Webserv"]
+	path = Projects/05_Webserv
+	url = git@github.com:NajmiAchraf/Webserv.git
+[submodule "Projects/05_Inception"]
+	path = Projects/05_Inception
+	url = git@github.com:NajmiAchraf/Inception.git
+[submodule "Projects/06_ft_transcendence"]
+	path = Projects/06_ft_transcendence
+	url = git@github.com:NajmiAchraf/ft_transcendence.git
