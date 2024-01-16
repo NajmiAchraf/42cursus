@@ -6,26 +6,26 @@
 
 **begin date : 1/nov/2021 🎉**
 
-[![anajmi's 42 stats](https://badge42.vercel.app/api/v2/cl1ppbv93001109l22479z7th/stats?cursusId=21&coalitionId=80)](https://github.com/JaeSeoKim/badge42)
+![anajmi's 42 stats](https://badge.mediaplus.ma/greenbinary/anajmi)
 
 ## Project List
 ### Common Core
 
 | LEVEL | PROJECT | P.L | TOPICS | EXPERIENCE | SCORE | COMPLETION | DOCUMENTS |
 | :----: | -------- | ---------- | ------ | ------------------ | -------- | ------ | ------ |
-|	10.95	|	[ft_transcendence](https://github.com/NajmiAchraf/ft_transcendence/tree/7df780ae6f1c091ae69769ded3681a0bdd991715)	|  | `` |	24360 XP	|	100/100	| 08-01-2024 | [en subject ft_transcendence](./Subjects/en.subject.ft_transcendence.pdf) |
-|	8.57	|	[Inception](https://github.com/NajmiAchraf/Inception/tree/e37f3503296867385d622292132f3d36e5998dc1)	|  | `` |	10042 XP	|	100/100	| 20-08-2023 | [en subject Inception](./Subjects/en.subject.Inception.pdf) |
-|	7.66	|	[Webserv](https://github.com/NajmiAchraf/Webserv/tree/54c9b984e0921fd0b30963927b106cd0d877c9f2)	| CPP | `` |	21630 XP	|	125/100	| 26-06-2023 | [en subject Webserv](./Subjects/en.subject.Webserv.pdf) |
-|	5.85	|	[Cpp Module 09](https://github.com/NajmiAchraf/Cpp-Module-09/tree/43627954ca79195e1e806622ca2ee6bbc3b039f6)	| CPP | `` |	10042 XP	|	100/100	| 27-03-2023 | [en subject Cpp Module 09](./Subjects/en.subject.C++09.pdf) |
-|	5.26	|	[Cpp Module 08](https://github.com/NajmiAchraf/Cpp-Module-08/tree/d84255fc48031362c00df53f4a442bcc502ae178)	| CPP | `` |	0 XP	|	100/100	| 14-02-2023 | [en subject Cpp Module 08](./Subjects/en.subject.C++08.pdf) |
-|	5.26	|	[Cpp Module 07](https://github.com/NajmiAchraf/Cpp-Module-07/tree/f788cd74dd86adc322cf6f3c0f0e407663971e39)	| CPP | `` |	0 XP	|	100/100	| 12-02-2023 | [en subject Cpp Module 07](./Subjects/en.subject.C++07.pdf) |
-|	5.26	|	[Cpp Module 06](https://github.com/NajmiAchraf/Cpp-Module-06/tree/406c60a722cdd5d68fa622f0838d333128c1af2a)	| CPP | `` |	0 XP	|	100/100	| 09-02-2023 | [en subject Cpp Module 06](./Subjects/en.subject.C++06.pdf) |
-|	5.26	|	[Cpp Module 05](https://github.com/NajmiAchraf/Cpp-Module-05/tree/0819c4d8cf8a607cfcb389f26e007bf5442322cb)	| CPP | `` |	0 XP	|	100/100	| 02-02-2023 | [en subject Cpp Module 05](./Subjects/en.subject.C++05.pdf) |
-|	5.26	|	[Cpp Module 04](https://github.com/NajmiAchraf/Cpp-Module-04/tree/1eddb28ab9fd4df0d3ac820c9b7110fdf1472292)	| CPP | `` |	9660 XP	|	80/100	| 28-01-2023 | [en subject Cpp Module 04](./Subjects/en.subject.C++04.pdf) |
-|	4.70	|	[Cpp Module 03](https://github.com/NajmiAchraf/Cpp-Module-03/tree/1a0a9dc6a8e18958f4d47e22b63375d018622555)	| CPP | `` |	0 XP	|	100/100	| 21-01-2023 | [en subject Cpp Module 03](./Subjects/en.subject.C++03.pdf) |
-|	4.70	|	[Cpp Module 02](https://github.com/NajmiAchraf/Cpp-Module-02/tree/0d33224166c6dfb4906f660e6f5380e49b29b1d6)	| CPP | `` |	0 XP	|	80/100	| 16-01-2023 | [en subject Cpp Module 02](./Subjects/en.subject.C++02.pdf) |
-|	4.70	|	[Cpp Module 01](https://github.com/NajmiAchraf/Cpp-Module-01/tree/11fb1cb34ffb7cd16ea279b6f0ab9c7a7ea81f93)	| CPP | `` |	0 XP	|	100/100	| 09-01-2023 | [en subject Cpp Module 01](./Subjects/en.subject.C++01.pdf) |
-|	4.70	|	[Cpp Module 00](https://github.com/NajmiAchraf/Cpp-Module-00/tree/2b027e6267f23bd695b01625c1dfbf82876df210)	| CPP | `` |	0 XP	|	80/100	| 14-12-2022 | [en subject Cpp Module 00](./Subjects/en.subject.C++00.pdf) |
+|	10.95	|	[ft_transcendence](https://github.com/NajmiAchraf/ft_transcendence/tree/7df780ae6f1c091ae69769ded3681a0bdd991715)	| TypeScript | `Web Development` `NestJS` `TypeScript` `PostgreSQL` `Single-Page Application` `Docker` `OAuth` `Security` `SQL Injection` `Server-Side Validation` `User Authentication` `Two-Factor Authentication` `User Profile` `Match History` `Chat` `Channel Creation` `Direct Messages` `Blocking Users` `Pong Game` `Matchmaking System` `Canvas Game` `Responsive Design` `User Experience` |	24360 XP	|	100/100	| 08-01-2024 | [en subject ft_transcendence](./Subjects/en.subject.ft_transcendence.pdf) |
+|	8.57	|	[Inception](https://github.com/NajmiAchraf/Inception/tree/e37f3503296867385d622292132f3d36e5998dc1)	|  | `System Administration` `Docker` `Virtual Machine` `Docker Compose` `Debian` `Dockerfiles` `NGINX` `TLSv1.2` `TLSv1.3` `WordPress` `php-fpm` `Maria` |	10042 XP	|	100/100	| 20-08-2023 | [en subject Inception](./Subjects/en.subject.Inception.pdf) |
+|	7.66	|	[Webserv](https://github.com/NajmiAchraf/Webserv/tree/54c9b984e0921fd0b30963927b106cd0d877c9f2)	| CPP | `HTTP server` `HTTP Protocol` `Non-blocking I/O` `select()` `Configuration File Handling` `Web Server Implementation` |	21630 XP	|	125/100	| 26-06-2023 | [en subject Webserv](./Subjects/en.subject.Webserv.pdf) |
+|	5.85	|	[Cpp Module 09](https://github.com/NajmiAchraf/Cpp-Module-09/tree/43627954ca79195e1e806622ca2ee6bbc3b039f6)	| CPP | `Standard Template Library` |	10042 XP	|	100/100	| 27-03-2023 | [en subject Cpp Module 09](./Subjects/en.subject.C++09.pdf) |
+|	5.26	|	[Cpp Module 08](https://github.com/NajmiAchraf/Cpp-Module-08/tree/d84255fc48031362c00df53f4a442bcc502ae178)	| CPP | `Templated Containers` `Iterators` `Algorithms` |	0 XP	|	100/100	| 14-02-2023 | [en subject Cpp Module 08](./Subjects/en.subject.C++08.pdf) |
+|	5.26	|	[Cpp Module 07](https://github.com/NajmiAchraf/Cpp-Module-07/tree/f788cd74dd86adc322cf6f3c0f0e407663971e39)	| CPP | `C++ Templates` |	0 XP	|	100/100	| 12-02-2023 | [en subject Cpp Module 07](./Subjects/en.subject.C++07.pdf) |
+|	5.26	|	[Cpp Module 06](https://github.com/NajmiAchraf/Cpp-Module-06/tree/406c60a722cdd5d68fa622f0838d333128c1af2a)	| CPP | `C++ Casts` |	0 XP	|	100/100	| 09-02-2023 | [en subject Cpp Module 06](./Subjects/en.subject.C++06.pdf) |
+|	5.26	|	[Cpp Module 05](https://github.com/NajmiAchraf/Cpp-Module-05/tree/0819c4d8cf8a607cfcb389f26e007bf5442322cb)	| CPP | `Repetition` `Exceptions` |	0 XP	|	100/100	| 02-02-2023 | [en subject Cpp Module 05](./Subjects/en.subject.C++05.pdf) |
+|	5.26	|	[Cpp Module 04](https://github.com/NajmiAchraf/Cpp-Module-04/tree/1eddb28ab9fd4df0d3ac820c9b7110fdf1472292)	| CPP | `Subtype Polymorphism` `Abstract Classes` `Interfaces` |	9660 XP	|	80/100	| 28-01-2023 | [en subject Cpp Module 04](./Subjects/en.subject.C++04.pdf) |
+|	4.70	|	[Cpp Module 03](https://github.com/NajmiAchraf/Cpp-Module-03/tree/1a0a9dc6a8e18958f4d47e22b63375d018622555)	| CPP | `Inheritance` |	0 XP	|	100/100	| 21-01-2023 | [en subject Cpp Module 03](./Subjects/en.subject.C++03.pdf) |
+|	4.70	| [Cpp Module 02](https://github.com/NajmiAchraf/Cpp-Module-02/tree/0d33224166c6dfb4906f660e6f5380e49b29b1d6) | CPP | `Ad-hoc Polymorphism` `Operator Overloading` `Orthodox Canonical Class Form` |	0 XP	| 80/100 | 16-01-2023 | [en subject Cpp Module 02](./Subjects/en.subject.C++02.pdf) |
+|	4.70	| [Cpp Module 01](https://github.com/NajmiAchraf/Cpp-Module-01/tree/11fb1cb34ffb7cd16ea279b6f0ab9c7a7ea81f93) | CPP | `Memory Allocation` `Pointers to Members` `References` `Switch Statement` |	0 XP	| 100/100 | 09-01-2023 | [en subject Cpp Module 01](./Subjects/en.subject.C++01.pdf) |
+|	4.70	| [Cpp Module 00](https://github.com/NajmiAchraf/Cpp-Module-00/tree/2b027e6267f23bd695b01625c1dfbf82876df210) | CPP | `Namespaces` `Classes` `Member Functions` `Stdio Streams` `Initialization Lists` `Static` `Const` |	0 XP	| 80/100 | 14-12-2022 | [en subject Cpp Module 00](./Subjects/en.subject.C++00.pdf) |
 |	4.70	|	[cub3d](https://github.com/NajmiAchraf/Cub3D/tree/ce2711e3113ab0fe42192f77f8f8180c58f3d280)	| C | `RayCasting` `MiniLibX` |	5775 XP	|	115/100	| 29-11-2022 | [en subject cub3d](./Subjects/en.subject.cub3d.pdf) |
 |	4.32	|	[NetPractice](https://github.com/NajmiAchraf/NetPractice/tree/fd4e0087075d9451f29ff4398a51ce867f7007a6)	|  | `Networking protocols (TCP/IP, UDP, HTTP, etc.)` `Client-server communication` |	3160 XP	|	100/100	| 27-10-2022 | [en subject NetPractice](./Subjects/en.subject.NetPractice.pdf) |
 |	4.14	|	[Minishell](https://github.com/NajmiAchraf/minishell/tree/1e590e80b61a7a2d292a4804214a566ca4211cae)	| C | `bash` `multiple process` `multiple pipes` |	2814 XP	|	101/100	| 04-10-2022 | [en subject Minishell](./Subjects/en.subject.minishell.pdf) |
