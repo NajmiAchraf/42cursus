@@ -5,8 +5,7 @@
 ## INFO👷
 
 **begin date : 1/nov/2021 🎉**
-
-![anajmi's 42 stats](https://badge.mediaplus.ma/greenbinary/anajmi)
+[![anajmi's 42 stats](https://badge.mediaplus.ma/greenbinary/anajmi)](https://github.com/oakoudad/badge42)
 
 ## Project List
 ### Common Core
