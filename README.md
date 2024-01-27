@@ -2,15 +2,16 @@
 
 ![1337](./image/README/1337.png)
 
-## INFO👷
+## INFO👨‍💻
 
 **begin date : 1/nov/2021 🎉**
+
 [![anajmi's 42 stats](https://badge.mediaplus.ma/greenbinary/anajmi)](https://github.com/oakoudad/badge42)
 
 ## Project List
 ### Common Core
 
-| LEVEL | PROJECT | P.L | TOPICS | EXPERIENCE | SCORE | COMPLETION | DOCUMENTS |
+| LEVEL | PROJECT | P.L | TOPICS | EXPERIENCE | SCORE | COMPLETION | SUBJECT |
 | :----: | -------- | ---------- | ------ | ------------------ | -------- | ------ | ------ |
 |	10.95	|	[ft_transcendence](https://github.com/NajmiAchraf/ft_transcendence/tree/7df780ae6f1c091ae69769ded3681a0bdd991715)	| TypeScript | `Web Development` `NestJS` `TypeScript` `PostgreSQL` `Single-Page Application` `Docker` `OAuth` `Security` `SQL Injection` `Server-Side Validation` `User Authentication` `Two-Factor Authentication` `User Profile` `Match History` `Chat` `Channel Creation` `Direct Messages` `Blocking Users` `Pong Game` `Matchmaking System` `Canvas Game` `Responsive Design` `User Experience` |	24360 XP	|	100/100	| 08-01-2024 | [en subject ft_transcendence](./Subjects/en.subject.ft_transcendence.pdf) |
 |	8.57	|	[Inception](https://github.com/NajmiAchraf/Inception/tree/e37f3503296867385d622292132f3d36e5998dc1)	|  | `System Administration` `Docker` `Virtual Machine` `Docker Compose` `Debian` `Dockerfiles` `NGINX` `TLSv1.2` `TLSv1.3` `WordPress` `php-fpm` `Maria` |	10042 XP	|	100/100	| 20-08-2023 | [en subject Inception](./Subjects/en.subject.Inception.pdf) |
@@ -39,7 +40,10 @@
 
 ### Exam Rank of Circle
 
-| CIRCLE | EXAM | P.L | TOPICS | EXPERIENCE | SCORE | COMPLETION | DOCUMENTS |
+| CIRCLE | EXAM | P.L | TOPICS | EXPERIENCE | SCORE | COMPLETION | SUBJECT |
 | :----: | -------- | ---------- | ------ | ------------------ | -------- | ------ | ------ |
-|	03	|	Exam Rank 03	|	C	| [get_next_line](https://github.com/NajmiAchraf/get_next_line/tree/c61f30b1c2129e628578ef61cb19ad21da5db726) |	0 XP	|	100/100	| 18-05-2022 | |
-|	02	|	Exam Rank 02	|	C	| `union` [ft_printf](https://github.com/NajmiAchraf/ft_printf/tree/001ad1eb375ff0d9d3a804961c307b4ce5e6a0f1) |	0 XP	|	100/100	|	17-12-2021	|		|
+|	06	|	[Exam Rank 06](./Exams/Exam_Rank_06/rendu/)	|	C	|	`mini_serv`	|	0 XP	|	100/100	| 27-12-2023 |	[en subject mini_serv](./Exams/Exam_Rank_06/subjects/subject.en.txt)	|
+|	05	|	[Exam Rank 05](./Exams/Exam_Rank_05/rendu/)	|	CPP	|	`cpp_module`	|	0 XP	|	100/100	| 07-09-2023 |	[en subject cpp_module00](./Exams/Exam_Rank_05/subjects/subject.en0.txt)	[en subject cpp_module01](./Exams/Exam_Rank_05/subjects/subject.en1.txt)	[en subject cpp_module02](./Exams/Exam_Rank_05/subjects/subject.en2.txt)	|
+|	04	|	[Exam Rank 04](./Exams/Exam_Rank_04/rendu/)	|	C	|	`microshell`	|	0 XP	|	100/100	| 19-10-2022 |	[en subject microshell](./Exams/Exam_Rank_04/subjects/subject.en.txt)	|
+|	03	|	[Exam Rank 03](./Exams/Exam_Rank_03/rendu/)	|	C	|	`get_next_line`	|	0 XP	|	100/100	| 18-05-2022 |	[en subject get_next_line](./Exams/Exam_Rank_03/subjects/subject.en.txt)	|
+|	02	|	[Exam Rank 02](./Exams/Exam_Rank_02/rendu/)	|	C	|	`union` `ft_printf`	|	0 XP	|	100/100	|	17-12-2021	|	[en subject union](./Exams/Exam_Rank_02/subjects/subject.en0.txt) [en subject ft_printf](./Exams/Exam_Rank_02/subjects/subject.en1.txt)	|
